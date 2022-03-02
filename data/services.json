@@ -1,5 +1,0 @@
-{
-  "data": ["Service A", "Service B", "Service C"],
-  "message": "The services have been retrieved successfully.",
-  "status": "Success"
-}
