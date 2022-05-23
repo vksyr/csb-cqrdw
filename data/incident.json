@@ -6,7 +6,7 @@
     "First_Name": "Jeremy",
     "Last_Name": "Smith",
     "Department": "Dept #1",
-    "Status_Code": "Assigned",
+    "StatusCode": "Assigned",
     "Assigned_Group": "Web Application",
     "WorkLog": [
       {
