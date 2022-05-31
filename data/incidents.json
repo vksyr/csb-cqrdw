@@ -37,7 +37,21 @@
       "Assigned_Group_ID": "GP0000000001",
       "Short_Description": ".",
       "SLM_Priority": "0",
-      "LastLog": "The webpart tabs seem to be breaking calendar functionality from the tabs. There\u0027s also a fair amount of custom scripting on the page too that may be conflicting. Please review."
+      "LastLog": "The webpart tabs seem to be breaking calendar functionality from the tabs. There\u0027s also a fair amount of custom scripting on the page too that may be conflicting. Please review.",
+      "WorkLog": [
+        {
+          "Work_Log_ID": "WLG0000066527015",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1639606622",
+          "Detailed_Description": "This is log Entry #1"
+        },
+        {
+          "Work_Log_ID": "WLG0000066527016",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1649606622",
+          "Detailed_Description": "This is log Entry #2"
+        }
+      ]
     },
     {
       "Incident_Number": "INC000001234567",
@@ -76,7 +90,21 @@
       "Assigned_Group_ID": "GP0000000001",
       "Short_Description": ".",
       "SLM_Priority": "0",
-      "LastLog": "The webpart tabs seem to be breaking calendar functionality from the tabs. There\u0027s also a fair amount of custom scripting on the page too that may be conflicting. Please review."
+      "LastLog": "The webpart tabs seem to be breaking calendar functionality from the tabs. There\u0027s also a fair amount of custom scripting on the page too that may be conflicting. Please review.",
+      "WorkLog": [
+        {
+          "Work_Log_ID": "WLG0000066527015",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1639606622",
+          "Detailed_Description": "This is log Entry #1"
+        },
+        {
+          "Work_Log_ID": "WLG0000066527016",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1649606622",
+          "Detailed_Description": "This is log Entry #2"
+        }
+      ]
     },
     {
       "Incident_Number": "INC000001234567",
@@ -115,7 +143,21 @@
       "Assigned_Group_ID": "GP0000000001",
       "Short_Description": ".",
       "SLM_Priority": "0",
-      "LastLog": "The webpart tabs seem to be breaking calendar functionality from the tabs. There\u0027s also a fair amount of custom scripting on the page too that may be conflicting. Please review."
+      "LastLog": "The webpart tabs seem to be breaking calendar functionality from the tabs. There\u0027s also a fair amount of custom scripting on the page too that may be conflicting. Please review.",
+      "WorkLog": [
+        {
+          "Work_Log_ID": "WLG0000066527015",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1639606622",
+          "Detailed_Description": "This is log Entry #1"
+        },
+        {
+          "Work_Log_ID": "WLG0000066527016",
+          "Work_Log_Submitter": "J. Jim",
+          "Work_Log_Submit_Date": "1649606622",
+          "Detailed_Description": "This is log Entry #2"
+        }
+      ]
     }
   ],
   "message": "The incidents have been retrieved successfully.",
